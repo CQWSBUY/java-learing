@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-filter" />
+        <module name="spring-servlet" />
+        <module name="spring-fileUpload" />
+        <module name="spring-freemarker" />
+        <module name="spring-jsp" />
+        <module name="spring-listener" />
+        <module name="spring-visitStataicResource" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-freemarker" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-fileUpload" options="-parameters" />
+      <module name="spring-filter" options="-parameters" />
+      <module name="spring-freemarker" options="-parameters" />
+      <module name="spring-jsp" options="-parameters" />
+      <module name="spring-listener" options="-parameters" />
+      <module name="spring-servlet" options="-parameters" />
+      <module name="spring-visitStataicResource" options="-parameters" />
+    </option>
+  </component>
+</project>
