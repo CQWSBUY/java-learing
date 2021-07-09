@@ -1,0 +1,11 @@
+#nacos server端地址
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+  #需要拉取的文件前缀
+  application:
+    name: provider-demo
+server:
+  port: 8084

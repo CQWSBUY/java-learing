@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer (1)" />
+        <module name="gateway" />
+        <module name="provider-service-dubbo" />
+        <module name="provider" />
+        <module name="config" />
+        <module name="provider (1)" />
+        <module name="provider-service-dubbo (1)" />
+        <module name="consumer" />
+        <module name="provider-service-api" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config" options="-parameters" />
+      <module name="consumer" options="-parameters" />
+      <module name="consumer (1)" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="provider" options="-parameters" />
+      <module name="provider (1)" options="-parameters" />
+      <module name="provider-service-api" options="-parameters" />
+      <module name="provider-service-dubbo" options="-parameters" />
+      <module name="provider-service-dubbo (1)" options="-parameters" />
+    </option>
+  </component>
+</project>

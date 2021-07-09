@@ -1,0 +1,14 @@
+#nacos server端地址
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        #目标文件类型
+        file-extension: yaml
+        enabled: true #是否启用配置中心
+      discovery:
+        server-addr: 127.0.0.1:8848
+  #需要拉取的文件前缀
+  application:
+    name: consumer-demo
