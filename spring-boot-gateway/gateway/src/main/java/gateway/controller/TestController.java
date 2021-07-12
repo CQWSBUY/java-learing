@@ -1,4 +1,4 @@
-package com.lvyuanji.gateway.controller;
+package gateway.controller;
 
 /**
  * @author admin

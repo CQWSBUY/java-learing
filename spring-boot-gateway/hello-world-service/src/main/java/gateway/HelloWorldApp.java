@@ -1,4 +1,4 @@
-package com.lvyuanji.gateway;
+package gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,8 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @date 2021/7/5 15:36
  */
 @SpringBootApplication
-public class GateWayApp {
+public class HelloWorldApp {
     public static void main(String[] args) {
-        SpringApplication.run(GateWayApp.class,args);
+        SpringApplication.run(HelloWorldApp.class,args);
     }
 }

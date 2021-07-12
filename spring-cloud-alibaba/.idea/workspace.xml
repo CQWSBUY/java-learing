@@ -2,86 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73ef8363-338b-48c4-a128-2ab2bba2363f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/java-learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spring-cloud-alibaba.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/src/main/java/com/spring/cloud/alibaba/config/NacosConfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/src/main/java/com/spring/cloud/alibaba/config/controller/ConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/consumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/src/main/java/com/spring/cloud/alibaba/consumer/NacosConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/src/main/java/com/spring/cloud/alibaba/consumer/controller/TestDubboRpcController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/target/classes/META-INF/consumer (1).kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/target/classes/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/target/classes/com/spring/cloud/alibaba/consumer/NacosConsumerApplication$TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/target/classes/com/spring/cloud/alibaba/consumer/NacosConsumerApplication$TestService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/target/classes/com/spring/cloud/alibaba/consumer/NacosConsumerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-dubbo/target/classes/com/spring/cloud/alibaba/consumer/controller/TestDubboRpcController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/consumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/com/spring/cloud/alibaba/consumer/NacosConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/gateway.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/lvyuanji/gateway/GateWayApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/lvyuanji/gateway/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/lvyuanji/gateway/GateWayApp$TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/lvyuanji/gateway/GateWayApp$TestService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/lvyuanji/gateway/GateWayApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/target/classes/com/lvyuanji/gateway/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-copy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-copy/provider.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-copy/src/main/java/com.spring.cloud.alibaba.provider/NacosProviderApplication_copy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-copy/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-copy/target/classes/META-INF/provider (1).kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-copy/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-copy/target/classes/com/alibaba/nacos/example/spring/cloud/NacosProviderApplication_copy$EchoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-copy/target/classes/com/alibaba/nacos/example/spring/cloud/NacosProviderApplication_copy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-api/provider-service-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-api/src/main/java/com.consumer.service.api/IConsumerTestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-api/target/classes/com/consumer/service/api/IConsumerTestInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo-copy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo-copy/provider-service-dubbo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo-copy/src/main/java/com/spring/cloud/alibaba/dubbo/provider/ProviderServiceDubboCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo-copy/src/main/java/com/spring/cloud/alibaba/dubbo/provider/impl/ConsumerTestInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo-copy/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo-copy/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo-copy/target/classes/com/spring/cloud/alibaba/dubbo/provider/ProviderServiceDubbo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo-copy/target/classes/com/spring/cloud/alibaba/dubbo/provider/ProviderServiceDubboCopy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo-copy/target/classes/com/spring/cloud/alibaba/dubbo/provider/impl/ConsumerTestInterfaceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo/provider-service-dubbo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo/src/main/java/com/spring/cloud/alibaba/dubbo/provider/ProviderServiceDubbo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo/src/main/java/com/spring/cloud/alibaba/dubbo/provider/impl/ConsumerTestInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo/target/classes/com/spring/cloud/alibaba/dubbo/provider/ProviderServiceDubbo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider-service-dubbo/target/classes/com/spring/cloud/alibaba/dubbo/provider/impl/ConsumerTestInterfaceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/provider.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/src/main/java/com.spring.cloud.alibaba.provider/NacosProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring全局异常处理/src/main/java/com/lvyuanji/errorbody/MyErrorBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring全局异常处理/src/main/java/com/lvyuanji/exception/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring全局异常处理/src/main/java/com/lvyuanji/learn/MyControllerAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring全局异常处理/src/main/java/com/lvyuanji/learn/TestError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring全局异常处理/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring全局异常处理/src/main/resources/static/pages/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_buffer_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_codec_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_common_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_handler_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_resolver_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_transport_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_65_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_20_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_server_2_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_2_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_spring_aop_5_2_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_spring_beans_5_2_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_spring_context_5_2_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_spring_core_5_2_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_spring_expression_5_2_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_spring_web_5_2_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/spring-boot-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/gateway/gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/gateway/src/main/java/gateway/GateWayApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/gateway/src/main/java/gateway/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/gateway/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/gateway/target/classes/gateway/GateWayApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/gateway/target/classes/gateway/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/hello-world-service/hello-world-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/hello-world-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/hello-world-service/src/main/java/gateway/HelloWorldApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/hello-world-service/src/main/java/gateway/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/hello-world-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/hello-world-service/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/hello-world-service/target/classes/gateway/HelloWorldApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/hello-world-service/target/classes/gateway/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/spring-cloud-alibaba.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spring-cloud-alibaba.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-gateway/spring-boot-gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/consumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/gateway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/lvyuanji/gateway/GateWayApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/lvyuanji/gateway/GateWayApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/lvyuanji/gateway/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/lvyuanji/gateway/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/com/lvyuanji/gateway/GateWayApp$TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/com/lvyuanji/gateway/GateWayApp$TestService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/com/lvyuanji/gateway/GateWayApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/com/lvyuanji/gateway/controller/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-service-api/provider-service-api.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +169,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-gateway" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -165,7 +196,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.NacosConsumerApplication (1)">
+  <component name="RunManager" selected="Spring Boot.ProviderServiceDubbo">
     <configuration name="GateWayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lvyuanji.gateway.GateWayApp" />
       <module name="gateway" />
@@ -179,34 +210,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProviderServiceDubbo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.cloud.alibaba.dubbo.provider.ProviderServiceDubbo" />
-      <module name="provider-service-dubbo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.spring.cloud.alibaba.dubbo.provider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GateWayApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="gateway" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lvyuanji.gateway.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lvyuanji.gateway.GateWayApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NacosConsumerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="consumer (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.cloud.alibaba.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloud.alibaba.consumer.NacosConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConsumerApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer-dubbo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.spring.cloud.alibaba.consumer.*" />
@@ -239,6 +257,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProviderServiceDubbo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="provider-service-dubbo (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.cloud.alibaba.dubbo.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloud.alibaba.dubbo.provider.ProviderServiceDubbo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProviderServiceDubboCopy" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="provider-service-dubbo (1)" />
       <extension name="coverage">
@@ -254,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ProviderServiceDubbo" />
+        <item itemvalue="Spring Boot.NacosConsumerApplication (2)" />
+        <item itemvalue="Application.GateWayApp" />
         <item itemvalue="Spring Boot.ProviderServiceDubboCopy" />
         <item itemvalue="Spring Boot.NacosConsumerApplication (1)" />
-        <item itemvalue="Application.GateWayApp" />
-        <item itemvalue="Spring Boot.GateWayApp" />
-        <item itemvalue="Application.ProviderServiceDubbo" />
       </list>
     </recent_temporary>
   </component>
@@ -272,6 +303,11 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -301,7 +337,8 @@
       <workItem from="1625191187816" duration="272000" />
       <workItem from="1625191845530" duration="14795000" />
       <workItem from="1625218494620" duration="26643000" />
-      <workItem from="1625725224016" duration="7825000" />
+      <workItem from="1625725224016" duration="8124000" />
+      <workItem from="1625815949351" duration="14996000" />
     </task>
     <servers />
   </component>
@@ -313,7 +350,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -344,46 +383,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="468" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1623673529266" />
-    <state x="328" y="6" key="CommitChangelistDialog2" timestamp="1625731998884">
+    <state x="328" y="6" key="CommitChangelistDialog2" timestamp="1626059574062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="328" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1625731998884" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1625799003933">
+    <state x="328" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1626059574062" />
+    <state x="201" y="65" key="DiffContextDialog" timestamp="1626059480789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1625799003933" />
-    <state width="1265" height="397" key="GridCell.Tab.0.bottom" timestamp="1625476752180">
+    <state x="201" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1626059480789" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1626060518569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1265" height="397" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625476752180" />
-    <state width="1265" height="397" key="GridCell.Tab.0.center" timestamp="1625476752180">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1626060518569" />
+    <state width="1265" height="204" key="GridCell.Tab.0.bottom" timestamp="1626060190891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1265" height="397" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1625476752180" />
-    <state width="1265" height="397" key="GridCell.Tab.0.left" timestamp="1625476752180">
+    <state width="1265" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626060190891" />
+    <state width="1265" height="204" key="GridCell.Tab.0.center" timestamp="1626060190891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1265" height="397" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1625476752180" />
-    <state width="1265" height="397" key="GridCell.Tab.0.right" timestamp="1625476752180">
+    <state width="1265" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1626060190891" />
+    <state width="1265" height="204" key="GridCell.Tab.0.left" timestamp="1626060190891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1265" height="397" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1625476752180" />
-    <state width="1265" height="397" key="GridCell.Tab.1.bottom" timestamp="1625476752180">
+    <state width="1265" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1626060190891" />
+    <state width="1265" height="204" key="GridCell.Tab.0.right" timestamp="1626060190891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1265" height="397" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625476752180" />
-    <state width="1265" height="397" key="GridCell.Tab.1.center" timestamp="1625476752180">
+    <state width="1265" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1626060190891" />
+    <state width="1265" height="204" key="GridCell.Tab.1.bottom" timestamp="1626060190891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1265" height="397" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1625476752180" />
-    <state width="1265" height="397" key="GridCell.Tab.1.left" timestamp="1625476752180">
+    <state width="1265" height="204" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626060190891" />
+    <state width="1265" height="204" key="GridCell.Tab.1.center" timestamp="1626060190891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1265" height="397" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1625476752180" />
-    <state width="1265" height="397" key="GridCell.Tab.1.right" timestamp="1625476752180">
+    <state width="1265" height="204" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1626060190891" />
+    <state width="1265" height="204" key="GridCell.Tab.1.left" timestamp="1626060190891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1265" height="397" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1625476752180" />
+    <state width="1265" height="204" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1626060190891" />
+    <state width="1265" height="204" key="GridCell.Tab.1.right" timestamp="1626060190891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1265" height="204" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1626060190891" />
     <state width="1265" height="397" key="GridCell.Tab.2.bottom" timestamp="1625476752180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -412,14 +455,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="377" y="112" width="783" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1625619799204" />
-    <state x="169" y="195" key="new project wizard" timestamp="1625799035598">
+    <state x="169" y="195" key="new project wizard" timestamp="1626057205283">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="169" y="195" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1625799035598" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1625208082441">
+    <state x="169" y="195" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1626057205283" />
+    <state x="242" y="147" width="672" height="678" key="search.everywhere.popup" timestamp="1626056957194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1625208082441" />
+    <state x="242" y="147" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1626056957194" />
   </component>
   <component name="ideajad">
     <property name="annotate" value="false" />
