@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="工厂方法模式" />
+        <module name="建造者模式" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DesignPatternsLearning" target="1.5" />
+      <module name="simpleFactory" target="1.5" />
+      <module name="工厂方法模式1" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
